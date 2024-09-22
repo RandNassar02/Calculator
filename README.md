@@ -1,4 +1,3 @@
-# Calculator
 <div align="center">
   <h2 align="center">Calculator</h2>
 
