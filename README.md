@@ -1,9 +1,13 @@
 # Calculator
+<div align="center">
+  <h2 align="center">Calculator</h2>
 
-Calculator using HTML CSS and JavaScript
-<br>
-<a href="[https://signuldotdev.github.io/Javascript-Calculator/](https://randnassar02.github.io/Calculator/)">View Demo</a>
-You can play it here: https://randnassar02.github.io/TIC-TAC-TOE/
-<br>
+  <p align="center">
+    Using HTML CSS and JavaScript
+    <br/>
+    <br/>
+    <a href="https://randnassar02.github.io/Calculator/">View Demo</a>
+  </p>
+</div>
 <br>
 ![Screenshot](Screenshot.png)
