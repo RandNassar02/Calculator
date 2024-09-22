@@ -8,6 +8,8 @@
     <br/>
     <a href="https://randnassar02.github.io/Calculator/">View Demo</a>
   </p>
+
+  
 </div>
 <br>
-![Screenshot](Screenshot.png)
+<img src="Screenshot.png">
